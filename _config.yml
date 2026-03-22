@@ -2,7 +2,7 @@ title: ZeroGold52's planet
 description: "All grown-ups were once children... but only few of them remember it."
 author:
   name: "ZeroGold52"
-  email: "someone@somewebsite.somedomain"
+  # email: "someone@somewebsite.somedomain"
   url: "https://zerogold52.github.io"
 
 baseurl: /
