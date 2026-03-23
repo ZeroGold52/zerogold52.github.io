@@ -4,6 +4,8 @@ author:
   name: "ZeroGold52"
   url: "https://zerogold52.github.io"
 
+domain: zerogold52.github.io
+url: https://zerogold52.github.io
 baseurl: /
 
 source: .
