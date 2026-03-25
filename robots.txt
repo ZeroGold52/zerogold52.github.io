@@ -1,3 +1,4 @@
-Sitemap: https://zerogold52.github.io/sitemap.xml
 User-agent: *
 Disallow: /contact.html
+
+Sitemap: https://zerogold52.github.io/sitemap.xml
